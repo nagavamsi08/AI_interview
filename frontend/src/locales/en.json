@@ -1,0 +1,65 @@
+{
+  "common": {
+    "welcome": "Welcome to AI Interview Platform",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "interview": "Interview",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In"
+  },
+  "interview": {
+    "start": "Start Interview",
+    "end": "End Interview",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "next": "Next Question",
+    "previous": "Previous Question",
+    "submit": "Submit Answer",
+    "feedback": "View Feedback"
+  },
+  "dashboard": {
+    "upcomingInterviews": "Upcoming Interviews",
+    "pastInterviews": "Past Interviews",
+    "performance": "Performance Overview",
+    "skills": "Skills Assessment",
+    "recommendations": "Recommendations"
+  },
+  "profile": {
+    "personalInfo": "Personal Information",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "resume": "Resume",
+    "uploadResume": "Upload Resume"
+  },
+  "analytics": {
+    "overview": "Analytics Overview",
+    "technicalScore": "Technical Score",
+    "communicationScore": "Communication Score",
+    "progress": "Progress Over Time",
+    "improvement": "Areas for Improvement"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match",
+    "serverError": "Server error occurred",
+    "networkError": "Network error occurred"
+  }
+} 
